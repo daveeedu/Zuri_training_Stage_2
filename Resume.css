@@ -94,3 +94,8 @@ li {
 ul {
     margin-top: 20;
 }
+
+.logo img {
+    width: 200px;
+    float: right;
+}
