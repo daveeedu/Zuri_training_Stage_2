@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    max-width: 900px;
+    margin: auto;
+}
+
+.clr{
+    clear: both;
+}
+
+#profile_pic{
+    padding-right: 30;
+    float: left;
+    width: auto;
+}
+
+#profile_pic img{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    border-radius: 50%;
+}
+
+#profile_details{
+    float: left;
+    width: auto;
+}
+
+#details {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+#details ul {
+    margin-top: 20px;
+}
+
+#details ul li {
+    display: inline;
+}
+
+#header {
+    margin-top: 50px;
+}
+
+#main{
+    float: right;
+    width: 75%;
+    margin-bottom: 30px;
+}
+
+#main p {
+    text-align: justify;
+}
+
+#main section{
+    border-left: 2px solid aqua;
+    margin-right: 30px;
+    padding-left: 10px;
+}
+
+
+#sidebar {
+    float: right;
+    width: 35px;
+}
+
+.work, 
+.school {
+    margin-top: 25px;
+}
+
+section {
+    margin-top: 30px;
+}
+
+.skill ul{
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin-top: 20;
+}
