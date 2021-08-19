@@ -95,7 +95,30 @@ ul {
     margin-top: 20;
 }
 
-.logo img {
-    width: 200px;
-    float: right;
+#zuri{
+    display: block;
+    width: 20px;
+    margin-left: 70;
+    border-radius: 50%;
 }
+
+#i4g {
+    display: block;
+    width: 20px;
+    margin-left: 70;
+    border-radius: 30%;
+}
+
+#HNG {
+    display: block;
+    width: 20px;
+    margin-left: 70;
+    border-radius: 30%;
+}
+
+img {
+    width: 500%;
+    height: auto;
+    border-radius: 10%;
+}
+
